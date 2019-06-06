@@ -11,8 +11,8 @@ description: |
   The application comes with all the necessary tools for writing
   scripts, plays, novels without using the pen and the paper.
 
-grade: devel # must be 'stable' to release into candidate/stable channels
-confinement: devmode # use 'strict' once you have the right plugs and slots
+grade: stable # must be 'stable' to release into candidate/stable channels
+confinement: strict # use 'strict' once you have the right plugs and slots
 license: MPL-2.0
 
 parts:

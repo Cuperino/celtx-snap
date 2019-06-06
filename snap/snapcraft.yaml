@@ -3,13 +3,9 @@ base: core # the base snap is the execution environment for this snap
 version: '2.9.7' # just for humans, typically '1.2+git' or '1.3.2'
 summary: Full featured scriptwriting application # 79 char long summary
 description: |
-  Celtx is a full-feature scriptwriting application and a set of media
-  pre-production tools designed to ease the work of those who work in the
-  media production industry by providing a simple desktop utility for
-  organizing the project information and making stories come alive.
+  Celtx is a full-feature scriptwriting application and a set of media pre-production tools designed to ease the work of those who work in the media production industry by providing a simple desktop utility for organizing the project information and making stories come alive.
 
-  The application comes with all the necessary tools for writing
-  scripts, plays, novels without using the pen and the paper.
+  The application comes with all the necessary tools for writing scripts, plays, novels without using the pen and the paper.
 license: MPL-2.0
 
 grade: stable # must be 'stable' to release into candidate/stable channels
